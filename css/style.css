@@ -1,0 +1,29 @@
+html, body{
+    height: 100%;
+}
+#cover{
+    background: url('../img/bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    height: 100%;    
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#crafting{
+    background-color: beige;
+    color: black;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: top;
+}
+
+.craft-caption{
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+
